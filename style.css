@@ -1,0 +1,21 @@
+.container {
+  margin-top: 12px;
+  padding: 10px;
+}
+h1 {
+  margin-top: 50px;
+  font-family: "Anton", sans-serif;
+  font-weight: 900;
+  line-height: 1.1;
+  font-size: 85px;
+}
+
+p {
+  font-family: "Kanit", sans-serif;
+  margin-top: 25px;
+}
+
+img {
+  max-width: 350px;
+  margin-left: 30px;
+}
