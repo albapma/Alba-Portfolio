@@ -27,3 +27,17 @@ section {
   background-image: url("background.jpg");
   border-radius: 70px;
 }
+
+@media (max-width: 576px) {
+  .avatar {
+    display: none;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  p {
+    text-align: center;
+  }
+}
