@@ -16,6 +16,11 @@ p {
   margin-bottom: 70px;
 }
 
+h2 {
+  margin: 50px;
+  padding-top: 30px;
+}
+
 .avatar {
   max-width: 300px;
   margin-left: 30px;
@@ -24,15 +29,18 @@ p {
   max-width: 80px;
 }
 section {
-  background-image: url("background.jpg");
+  background-image: url("images/background.jpg");
 
   border-radius: 70px;
 }
 
+.weather {
+  border-radius: 30px;
+}
 @media (max-width: 576px) {
   section {
     border-radius: 10px;
-    background-image: url("background-responsive.jpg");
+    background-image: url("images/background-responsive.jpg");
   }
   .logo {
     max-width: 65px;
@@ -64,6 +72,6 @@ section {
     margin-bottom: 2px;
     margin-top: 10px;
     text-align: center;
-    color: gray;
+    color: #460cf5;
   }
 }
