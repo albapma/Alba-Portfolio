@@ -32,6 +32,7 @@ section {
 @media (max-width: 576px) {
   section {
     border-radius: 10px;
+    background-image: url("background-responsive.jpg");
   }
   .logo {
     max-width: 65px;
