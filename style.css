@@ -38,6 +38,14 @@ section {
   border-radius: 70px;
 }
 
+h2 {
+  font-family: "Bebas Neue", sans-serif;
+}
+h3 {
+  font-family: "Unbounded", sans-serif;
+  font-weight: 600;
+}
+
 .weather {
   border-radius: 30px;
 }
@@ -76,7 +84,7 @@ section {
     margin-bottom: 2px;
     margin-top: 10px;
     text-align: center;
-    color: #460cf5;
+    color: #ffffff;
   }
   .weather {
     margin: auto;
