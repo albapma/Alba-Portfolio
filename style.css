@@ -22,6 +22,7 @@ p {
 h2 {
   margin: 50px;
   padding-top: 30px;
+  font-size: 45px;
 }
 
 .avatar {
@@ -76,5 +77,29 @@ section {
     margin-top: 10px;
     text-align: center;
     color: #460cf5;
+  }
+  .weather {
+    margin: auto;
+    display: block;
+    max-width: 250px;
+    border-radius: 5px;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  .weather-description {
+    text-align: center;
+  }
+
+  .myapp {
+    margin: auto;
+    display: block;
+    text-align: center;
+    padding: 2px;
+    padding-left: 1px;
+    margin-bottom: 50px;
   }
 }
