@@ -46,11 +46,11 @@ section {
 }
 
 h2 {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Anton", sans-serif;
 }
 h3 {
-  font-family: "Unbounded", sans-serif;
-  font-weight: 600;
+  font-family: "Anton", sans-serif;
+  font-weight: 50;
 }
 
 .weather {
@@ -93,6 +93,7 @@ footer {
 }
 .about {
   background-image: url("images/about.jpg");
+  background-opactoyy
 }
 .name {
   text-align: center;
