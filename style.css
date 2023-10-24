@@ -93,7 +93,6 @@ footer {
 }
 .about {
   background-image: url("images/about.jpg");
-  background-opactoyy
 }
 .name {
   text-align: center;
@@ -131,6 +130,20 @@ footer {
 }
 .about-contact {
   margin: 15px;
+}
+.contact-page {
+  background-image: url("images/about.jpg");
+}
+.contact-details {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+.linkedin {
+  margin: 50px;
+}
+.email {
+  margin: 50px;
 }
 @media (max-width: 576px) {
   body {
