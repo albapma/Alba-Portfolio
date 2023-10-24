@@ -55,12 +55,10 @@ h2 {
   font-family: "Anton", sans-serif;
 }
 h3 {
-
   font-family: "Anton", sans-serif;
   font-weight: 50;
 }
 
-}
 .weather {
   border-radius: 30px;
   max-width: 410px;
@@ -141,6 +139,9 @@ footer {
 }
 .contact-page {
   background-image: url("images/about.jpg");
+}
+.contact-me {
+  text-align: center;
 }
 .contact-details {
   margin: auto;
