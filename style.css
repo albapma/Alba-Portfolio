@@ -96,6 +96,7 @@ footer {
   flex-direction: column;
   align-items: center;
   position: absolute;
+  z-index: -1;
 }
 .about {
   background-image: url("images/about.jpg");
