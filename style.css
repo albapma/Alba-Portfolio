@@ -154,6 +154,7 @@ footer {
 .email {
   margin: 50px;
 }
+
 @media (max-width: 576px) {
   body {
     min-height: 100vh;
