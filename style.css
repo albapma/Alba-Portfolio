@@ -210,6 +210,9 @@ footer {
     padding: 2px;
     padding-left: 1px;
   }
+  footer {
+    margin-top: 5px;
+  }
   .legal {
     font-size: 11px;
     text-align: center;
@@ -225,5 +228,6 @@ footer {
     margin: auto;
     display: block;
     text-align: center;
+    font-size: 11px;
   }
 }
