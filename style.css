@@ -230,4 +230,7 @@ footer {
     text-align: center;
     font-size: 11px;
   }
+  .contact-details {
+    margin-bottom: 60px;
+  }
 }
